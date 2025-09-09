@@ -1,6 +1,6 @@
 # ⚡ Smart Monitoring System for Wireless Charging of EVs
 
-![Project Banner Placeholder](./Images/Project Images.png)
+![Project Banner Placeholder](./Images/Project_Images.png)
 
 ---
 
