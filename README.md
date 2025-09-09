@@ -1,6 +1,6 @@
 # ⚡ Smart Monitoring System for Wireless Charging of EVs
 
-![Project Banner Placeholder](./Images/Project_Images.png)
+![Project Banner Placeholder](Images/Project Images.png)
 
 ---
 
@@ -35,7 +35,7 @@ This project is developed with mentorship from **Government Polytechnic Banka** 
 
 ## ⚙️ Installation & Setup
 
-See detailed instructions in [`Docs/Installation_Guide.md`](./Docs/Installation_Guide.md) including:
+See detailed instructions in [`Docs/Project_Overview.pdf`](Docs/Project_Overview.pdf) including:
 
 - Hardware connections and wiring  
 - Installing Arduino IDE and required libraries  
@@ -46,7 +46,7 @@ See detailed instructions in [`Docs/Installation_Guide.md`](./Docs/Installation_
 
 ## 📈 System Architecture
 
-![Block Diagram](./Circuit_Diagram/Block_Diagram.png)
+![Block Diagram](Circuit_Diagram/Block_Diagram.png)
 
 - ESP-WROOM-32: Central controller handling communication and data processing  
 - Arduino UNO: Sensor interfacing including voltage, current sensors, and relay control  
