@@ -87,6 +87,22 @@ Details available in [`Docs/Future_Enhancements.md`](./Docs/Future_Enhancements.
 - Supported by Government Polytechnic Banka under #SBH2023  
 
 ---
+---
+
+## 🏆 Awards & Recognitions
+
+| Level         | Event                          | Prize        | Venue                                 | Organizer(s)                             |
+|---------------|--------------------------------|--------------|-------------------------------------|----------------------------------------|
+| **District**  | Smart Bihar Hackathon 2023      | 🥇 1st Prize | Government Polytechnic Banka        | IIT Patna, DSTTE, SBTE, Bihar          |
+| **State**     | World Youth Day 2023            | 🥈 2nd Prize | Dasrath Manjhi Labour Skill Development Center | IIT Patna, DSTTE, SBTE, Bihar  |
+
+---
+
+🎉 We are proud to have won the first prize at the district level and second prize at the state level for this innovative project on wireless EV charging monitoring.
+
+Special thanks to our mentors and organizers for their continued support.
+
+---
 
 ## 📩 Feedback & Contributions
 
